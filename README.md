@@ -273,7 +273,7 @@ ijkplayer's build scripts are based on or derives from projects below:
 - [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) 
 
 ### Commercial Use
-ijkplayer is licensed under LGPLv2.1 or later, so itself is free for commercial use under LGPLv2.1 or later
+ijkplayer fork is licensed under LGPLv3 or later, so itself is free for commercial use under LGPLv3 or later
 
 But ijkplayer is also based on other different projects under various licenses, which I have no idea whether they are compatible to each other or to your product.
 
